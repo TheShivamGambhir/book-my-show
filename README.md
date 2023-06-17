@@ -11,7 +11,7 @@ Actors:
 2. Movie Theatre
 3. System
 
-Sequence
+Client View
 ---------------------
 1. Client View:
    1.1. Search:
@@ -35,5 +35,6 @@ Sequence
    2.2. Delete Movie
 
 3. System
-   3.1. Seat management
-   3.2. Notifs to client and theatre 
+   3.1. Auth 
+   3.2. Seat management
+   3.3. Notifs to client and theatre 
